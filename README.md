@@ -1,3 +1,3 @@
 # myWebsite
 
-Website portfolio for Frankie Stalker
+My website portfolio for Frankie Stalker
