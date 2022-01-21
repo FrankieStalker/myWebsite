@@ -1,5 +1,5 @@
 let i = 0;
-let txt = 'Frankies Portfolio';
+let txt = 'Frankie\'s Portfolio';
 let speed = 150;
 
 function typeWriter() {
