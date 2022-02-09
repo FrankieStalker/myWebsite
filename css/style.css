@@ -157,7 +157,7 @@
 
     /* Caption text */
     .text {
-        color: yellow;
+        color: white;
         font-size: 50%;
         padding: 8px 12px;
         position: absolute;
@@ -362,7 +362,7 @@
 
     /* Caption text */
     .text {
-        color: yellow;
+        color: white;
         font-size: 35%;
         padding: 8px 12px;
         position: absolute;
@@ -370,6 +370,7 @@
         width: 100%;
         text-align: center;
         padding-top: 50px;
+        background-color: black;
         /* padding-bottom: 10px; */
     }
 
@@ -568,7 +569,7 @@
 
     /* Caption text */
     .text {
-        color: yellow;
+        color: white;
         font-size: 35%;
         padding: 8px 12px;
         position: absolute;
