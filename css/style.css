@@ -129,6 +129,13 @@
         position: relative;
         margin: auto;
     }
+
+    iframe {
+        border: 5px;
+        border-color: black;
+        border-style: solid;
+        border-radius: 15px;
+    }
     
     /* Hide the images by default */
     .mySlides1 {
